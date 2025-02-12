@@ -39,6 +39,6 @@ public class SGC{
          System.out.println("Total marks = "+total);
          System.out.println("Avreage Percentage= "+AP+" %");
          System.out.println("Grade is : "+Grade);
-
+        sc.close();
     }
 }
